@@ -1,5 +1,4 @@
-## Server
-### Informações
+## Server Info
 ### npm init -y
 ### npm install express --save
 ### npm install cors --save
